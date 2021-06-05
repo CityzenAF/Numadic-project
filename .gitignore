@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+NumadicScrapper/__pycache__/
+NumadicScrapper/spiders/__pycache__/
+.idea
